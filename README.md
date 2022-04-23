@@ -21,4 +21,5 @@ python3 -m pip3 install pygame
 #### To run the program simply download all the files from the resporitory or clone them and then run runner.py using python
 
 Note : the time.sleep() have been added in the program to improve the experience but you can remove or increase them to suit your interests
-~ Inspired by CS50ai
+
+- Inspired by CS50ai
