@@ -1,6 +1,6 @@
 ## Tic-tac-toe Ai using Minimax
 
-*Written in Python with a Gui*
+*Written in Python and includes a Gui*
 
 To play select whether you want to go first or second on the main screen and then either lose or tie(since the ai plays perfectly using the minimax algorithm)
 
